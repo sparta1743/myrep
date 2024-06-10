@@ -1,2 +1,1 @@
 friend :Hello How are you my friend?
-timepass
