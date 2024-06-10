@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-
-
 friend :Hello How are you my friend?
-=======
-Hello Kshitij How are you?
->>>>>>> hello
